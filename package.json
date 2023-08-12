@@ -2,6 +2,13 @@
   "name": "credit-card-validator-ui",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com:udit2910/credit-card-validator-react-UI.git"
+  },
+  "author": "udit2910",
+  "license": "ISC",
+  "homepage": "https://git@github.com:udit2910/credit-card-validator-react-UI#readme",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
